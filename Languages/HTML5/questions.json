@@ -26,6 +26,15 @@
       "trueOrFalse": false,
       "shortAns": "It increases readability and understandability of HTML codes.",
       "tag": "Andriod"
-    }
+    },
+    {
+      "id": 3,
+      "question": "HTML 5 is case sensitive.",
+      "details": "Most versions of HTML are case sensitive and HTML 5 is one of them.",
+      "questionType": "bool",
+      "trueOrFalse": true,
+      "shortAns": "",
+      "tag": "case sensitive"
+    },
   ]
 }
